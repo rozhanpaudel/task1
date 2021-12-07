@@ -1,0 +1,12 @@
+.search_bar{
+  width: 50%;
+}
+
+.search__section{
+  display: flex;
+}
+
+.search_btn{
+  height:  50px;
+  margin-top: 10px;
+}
